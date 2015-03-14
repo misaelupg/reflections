@@ -1,0 +1,2 @@
+What happens when you initilize a repository? Why do you need to do it?
+Git creates a directory when all the necesary metadata is ready so I can start to track my files.
