@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Making it more efficient. The diff search for all changes between the two files, and I just need se how changes the code between  both versions. If I have did`t used diff, it have should hours to find that bugs searching for a typo in every line of code.
+
+
+
+How could having easy access to the entire history of a file make you a more efficient porogrammer in the long term?
+
+Saving time. As a programmer you may commit some erros when updating your code, and maybe one little line of code can change the all functionality of the program, comparing the old version can help you what changes in the code are affecting the functions of your program. 
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+With Git you have to remember when to create a commit, but you have more control over your code, you know exactly when you create a commit. with Google Docs you don`t have to remember to save create new version, but maybe your code it's to long and you have a lot or versions, Google doesn`t give you the ability to chose when you want to create another version.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, ahile others like Google docs, treat each file separately?
+
+I don`t know, I think could be very useful, like for example, if you change something in a spreadsheet and you also need no udpate your report in the main doc.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+I an use 'git log' to view all commits that I made, and use 'diff' to look out for some changes beetween that two commits.
+
+
+
+How might using version control make you more confident to make changes could break something? 
+
+Because now I know that if something went grong with my code, and I can`t find what, I can recover the code before it was broekn and find a solution.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Using it while coding for building I website, so now I can't make considerable changes without fear to ruinning the design or making it unusable.
+
+
+
+

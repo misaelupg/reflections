@@ -1,2 +1,11 @@
 What happens when you initilize a repository? Why do you need to do it?
 Git creates a directory when all the necesary metadata is ready so I can start to track my files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area allow me to control the files in my repository, and decide what to commit, this is giving me more control.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Because I can see my last changes on my working directoryand the staging area.
+
+What are some situations when branches would be helpful keeping your history organized? How would branches help?
+I think this is when Git starts to be more powerful, This is what version control systems are about, it`s like having more than two or three different files.
